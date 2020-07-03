@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>name</key>
+        <value>hellow vvv</value>
+    </entry>
+    <entry>
+        <key>namew</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>adban</key>
+        <value>nulled</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

@@ -1,0 +1,2 @@
+rootProject.name='remo'
+include ':app'
